@@ -1,0 +1,24 @@
+C:\Users\Olan\source\repos\THA W13 MaulanaMA\THA W13 MaulanaMA\obj\Debug\THA W13 MaulanaMA.csproj.AssemblyReference.cache
+C:\Users\Olan\source\repos\THA W13 MaulanaMA\THA W13 MaulanaMA\obj\Debug\THA W13 MaulanaMA.csproj.SuggestedBindingRedirects.cache
+C:\Users\Olan\source\repos\THA W13 MaulanaMA\THA W13 MaulanaMA\obj\Debug\THA W13 MaulanaMA.exe.config
+C:\Users\Olan\source\repos\THA W13 MaulanaMA\THA W13 MaulanaMA\obj\Debug\THA_W13_MaulanaMA.Form1.resources
+C:\Users\Olan\source\repos\THA W13 MaulanaMA\THA W13 MaulanaMA\obj\Debug\THA_W13_MaulanaMA.Properties.Resources.resources
+C:\Users\Olan\source\repos\THA W13 MaulanaMA\THA W13 MaulanaMA\obj\Debug\THA W13 MaulanaMA.csproj.GenerateResource.cache
+C:\Users\Olan\source\repos\THA W13 MaulanaMA\THA W13 MaulanaMA\obj\Debug\THA W13 MaulanaMA.csproj.CoreCompileInputs.cache
+C:\Users\Olan\source\repos\THA W13 MaulanaMA\THA W13 MaulanaMA\bin\Debug\THA W13 MaulanaMA.exe.config
+C:\Users\Olan\source\repos\THA W13 MaulanaMA\THA W13 MaulanaMA\bin\Debug\THA W13 MaulanaMA.exe
+C:\Users\Olan\source\repos\THA W13 MaulanaMA\THA W13 MaulanaMA\bin\Debug\THA W13 MaulanaMA.pdb
+C:\Users\Olan\source\repos\THA W13 MaulanaMA\THA W13 MaulanaMA\bin\Debug\MySql.Data.dll
+C:\Users\Olan\source\repos\THA W13 MaulanaMA\THA W13 MaulanaMA\bin\Debug\Google.Protobuf.dll
+C:\Users\Olan\source\repos\THA W13 MaulanaMA\THA W13 MaulanaMA\bin\Debug\ZstdNet.dll
+C:\Users\Olan\source\repos\THA W13 MaulanaMA\THA W13 MaulanaMA\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Olan\source\repos\THA W13 MaulanaMA\THA W13 MaulanaMA\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Olan\source\repos\THA W13 MaulanaMA\THA W13 MaulanaMA\bin\Debug\System.Memory.dll
+C:\Users\Olan\source\repos\THA W13 MaulanaMA\THA W13 MaulanaMA\bin\Debug\System.Buffers.dll
+C:\Users\Olan\source\repos\THA W13 MaulanaMA\THA W13 MaulanaMA\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Olan\source\repos\THA W13 MaulanaMA\THA W13 MaulanaMA\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Olan\source\repos\THA W13 MaulanaMA\THA W13 MaulanaMA\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Olan\source\repos\THA W13 MaulanaMA\THA W13 MaulanaMA\bin\Debug\MySql.Data.xml
+C:\Users\Olan\source\repos\THA W13 MaulanaMA\THA W13 MaulanaMA\obj\Debug\THA W13 MaulanaMA.csproj.CopyComplete
+C:\Users\Olan\source\repos\THA W13 MaulanaMA\THA W13 MaulanaMA\obj\Debug\THA W13 MaulanaMA.exe
+C:\Users\Olan\source\repos\THA W13 MaulanaMA\THA W13 MaulanaMA\obj\Debug\THA W13 MaulanaMA.pdb
